@@ -1,0 +1,39 @@
+[
+    {
+      "id": "s001",
+      "name": "Nguyen Van A",
+      "dob": "2001-05-20",
+      "address": "Hà Nội",
+      "hobby": "Đọc sách",
+      "interest": "Cafe sách",
+      "skill": "Đá bóng"
+    },
+    {
+      "id": "s002",
+      "name": "Tran Thi Huong",
+      "dob": "2002-03-15",
+      "address": "Thái Nguyên",
+      "hobby": "Âm nhạc",
+      "interest": "Nhảy",
+      "skill": "Vẽ tranh"
+    },
+    {
+      "id": "s003",
+      "name": "Le Van B",
+      "dob": "2001-08-10",
+      "address": "Đà Nẵng",
+      "hobby": "Đọc sách",
+      "interest": "Sách kỹ thuật",
+      "skill": "Lập trình"
+    },
+    {
+      "id": "s004",
+      "name": "Pham Thi C",
+      "dob": "2000-12-01",
+      "address": "Hà Nội",
+      "hobby": "Bóng đá",
+      "interest": "Thể thao",
+      "skill": "Đá bóng"
+    }
+]
+  

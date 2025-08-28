@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Student RAG Chatbot</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container-parent">
+    <div class="chat-container">
+      <div class="chat-header">Student RAG Chatbot</div>
+      
+      <div class="upload-box">
+        <p><b>Upload student data (JSON)</b></p>
+        <input type="file" id="fileInput" accept=".json" />
+        <button onclick="uploadFile()">Upload</button>
+        <p id="upload-status" style="font-size: 12px; color: gray;"></p>
+      </div>
+  
+      <div class="chat-box" id="chat-box"></div>
+  
+      <div class="chat-input">
+        <input type="text" id="user-input" placeholder="Ask something..." />
+      
+        <div class="chat-actions">
+          <button class="icon-button" title="Attach file">
+            📎
+          </button>
+          <button class="icon-button" title="Emoji">
+            😊
+          </button>
+          <button class="send-button" onclick="sendMessage()" title="Send">
+            ➤
+          </button>
+        </div>
+      </div>    
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
