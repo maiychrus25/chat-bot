@@ -1,4 +1,4 @@
-# 🎓 Student RAG Chatbot
+#                                                   🎓 Student RAG Chatbot
 
 This project is a simple **RAG (Retrieval-Augmented Generation) chatbot** that helps answer questions about students in a class, with enhanced capabilities including **weather information** and **news updates**.
 
@@ -30,7 +30,7 @@ This project is a simple **RAG (Retrieval-Augmented Generation) chatbot** that h
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/student-rag-chatbot.git
+git clone https://github.com/maiychrus25/chat-bot.git
 cd student-rag-chatbot
 ```
 
